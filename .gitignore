@@ -1,0 +1,5 @@
+training.log
+Data/
+.ipynb_checkpoints/
+model.pkl
+feature.pkl
