@@ -31,12 +31,13 @@ Network Behavior Features
 
 
 Target Variable:
-Attack
+'''Attack
 0 → Normal
 1 → Attack
+'''
 
 
-Project Workflow
+'''Project Workflow
 Dataset
 ↓
 Data Cleaning
@@ -58,6 +59,7 @@ Model Retraining
 Evaluation
 ↓
 Prediction on New Data
+'''
 
 
 Technologies Used:
@@ -68,6 +70,7 @@ Matplotlib
 Scikit-learn
 Joblib
 Machine Learning Pipeline
+
 
 The project uses :
 Pipeline
@@ -96,13 +99,14 @@ Precision-Recall Curve
 Average Precision Score
 
 
-Output
+'''Output
 The trained model can classify unseen network traffic.
 Input.csv
 ↓
 Prediction
 ↓
 Output.csv
+'''
 
 
 Predictions are generated as:
@@ -111,7 +115,7 @@ or
 Normal
 
 
-Project Structure : 
+'''Project Structure : 
 Network-Intrusion-Detection-System/
 │
 ├── Data/
@@ -130,7 +134,7 @@ Network-Intrusion-Detection-System/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
+'''
 
 Future Improvements : 
 Compare multiple machine learning algorithms.
@@ -140,6 +144,7 @@ Deploy the model as a web application.
 Integrate real-time packet capture. 
 
 
-Author
+'''Author
 Siddesh Kuppast
 B.Tech – Artificial Intelligence & Machine Learning
+'''
