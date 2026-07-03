@@ -135,7 +135,7 @@ Network-Intrusion-Detection-System/
 # 🚀 How to Run
 
 ```bash
-git clone https://github.com/your-username/Network-Intrusion-Detection-System.git
+git clone https://github.com/shiddukuppast/Network-Intrusion-Detection-System.git
 cd Network-Intrusion-Detection-System
 python main.py
 ```
